@@ -65,7 +65,7 @@ HTML/CSS [Интернет-магазин мороженого Glassy Shop](http
 
 ### `March 2012 - January 2016` Customer and Supplier Manager
 
-[**Rumpa**](rumpa.ru)
+[**Rumpa**](https://www.rumpa.ru/)
 
 **Responsibility:** The whole cycle of works, starting with receiving the order from the client and ending with the installation of finished products.
 
